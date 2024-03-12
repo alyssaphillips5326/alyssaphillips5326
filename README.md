@@ -1,5 +1,5 @@
 
-<h1>Hi, I'm Alyssa! <br/><a href="https://github.com/alyssaphillips5326"> LinkedIn </a>&<a href="https://www.linkedin.com/in/alyssa-phillips5326/">Business Professional</a> <a href="(https://www.linkedin.com/in/alyssa-phillips5326/)"/a></h1>
+<h1>Hi, I'm Alyssa! <br/><a href="https://github.com/alyssaphillips5326"> LinkedIn </a> & <a href="https://www.linkedin.com/in/alyssa-phillips5326/"> Business Professional</a> <a href="(https://www.linkedin.com/in/alyssa-phillips5326/)"/a></h1>
 
 <h2>👨‍💻  Python Projects:</h2>
 
