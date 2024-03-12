@@ -29,7 +29,7 @@
 
 <h2>👨‍💻  Crash Course on Python - Coursera :</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>Introduction to Python </b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
   - 
 
